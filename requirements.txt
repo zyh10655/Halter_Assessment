@@ -1,4 +1,3 @@
-db-dtypes==pmdarima1.2.0
 pandas==2.0.3
 numpy==1.25.2
 matplotlib==3.7.1
